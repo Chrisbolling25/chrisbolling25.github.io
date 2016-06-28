@@ -1,2 +1,3 @@
-# chrisbolling25.github.io
-chrisbolling25.github.io
+# summer-github-bootstrap
+
+this is for username.github.io
